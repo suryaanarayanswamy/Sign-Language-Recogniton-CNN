@@ -18,3 +18,6 @@ Note
 - The dataset was collected manually and is not open-sourced.  
 - Code is not included here since it was an undergrad project.  
 - This repository provides access to the **report** and **IEEE publication link** for reference.  
+
+## For Users  
+If you would like to **reproduce or extend this work**, the **step-by-step methodology and architecture are clearly described in the report**.
