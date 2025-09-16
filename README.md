@@ -8,13 +8,13 @@ The work was later **published in IEEE** and has received **20+ academic citatio
 
 ---
 
-📑 Report & Publication  
-- [Full Report (PDF)](./final_report.pdf)  
+Report & Publication  
+- [Full Report (PDF)](./SignReport.pdf)  
 - [Published in IEEE Xplore](https://ieeexplore.ieee.org/document/9914155)  
 
 ---
 
-⚙️ Note  
+Note  
 - The dataset was collected manually and is not open-sourced.  
 - Code is not included here since it was an undergrad project.  
 - This repository provides access to the **report** and **IEEE publication link** for reference.  
